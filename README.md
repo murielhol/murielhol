@@ -15,11 +15,11 @@
 
 🌱Lets connect:
 
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+<a href="https://www.linkedin.com/in/muriel-hol-49696a8a/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="icons8-linkedin-50.png"/>
 </a>
 
 
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+<a href="https://www.murielhol.com/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="icons8-internet-connection-64.png" />
 </a>
